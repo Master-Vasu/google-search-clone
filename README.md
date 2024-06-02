@@ -66,6 +66,10 @@ This project is a part of the CS50 Web Programming with Python and JavaScript co
 
 - Use the advanced search page to refine your search with additional parameters.
 
+## Video Demo
+
+[CS50 Project 0: Search](https://www.youtube.com/watch?v=YJSA4_GQqdw)
+
 ## Customization
 
 - **Styling:**
