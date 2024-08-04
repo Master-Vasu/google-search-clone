@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is a part of the CS50 Web Programming with Python and JavaScript course offered by Harvard University. The goal of the project was to create a simple search engine that indexes web pages and allows users to search for keywords within those pages.
+The goal of the project was to create a simple search engine that indexes web pages and allows users to search for keywords within those pages.
 
 ## Features
 
@@ -12,12 +12,6 @@ This project is a part of the CS50 Web Programming with Python and JavaScript co
 - **Ranking:** Search results are ranked based on the frequency of the search term within each page.
 - **Responsive Design:** The user interface is designed to be responsive and user-friendly.
 
-## Technologies Used
-
-- **Python:** Used for the backend logic, including crawling and indexing web pages.
-- **Flask:** A micro web framework for Python, used to create the web application.
-- **HTML/CSS:** Used for creating the structure and styling of the web pages.
-- **JavaScript:** Used for enhancing the interactivity of the web application.
 
 ## Project Structure
 
